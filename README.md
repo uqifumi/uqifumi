@@ -1,9 +1,10 @@
-## Hi there 👋 I'am Syauqi
-#### I'm a Informatics Student
+#### Hi 👋, I'm Syauqi. 
+##### Saya Dosen Teknik Informatika.
 
-- 🌱 I’m currently learning mobile programming with Flutter Framework
+💻Saat ini saya sedang mengajar pemrograman mobile:
 
-| No  | Pertemuan ke  | Tema  | Laporan  | Repositori  |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-| 1 |  01 |  Pengenalan Mobile Programming dan Setup Lingkungan | [Laporan](https://drive.google.com/file/d/1BttAr7Odh54tyjoPsfZyA98WnycO7ke0/view?usp=sharing "Laporan")  | [Program](https://github.com/uqifumi/Contoh-Async-Programming-FutureBuilder-Resep-Masak "Program")  |
-
+| No  | Tgl  | Praktikum ke  | Topik  | Modul | Template Laporan |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
+|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 01") | [Template laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan") |
+|  2 | 03-09-2025  | 02  | Widget Row dan Column | [Modul 02](https://docs.google.com/document/d/1bAyuU6jrKHtkA4Xj5qt7JtetDfKI22JQ/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 02")| [Template laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan")|
+|  3 | 10-09-2025  | 03  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://docs.google.com/document/d/1xG5zvKOgwrAXow-jxBnv22rApHQjhqTO/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 02")| [Template laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan")|
