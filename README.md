@@ -1,5 +1,5 @@
 ## Hi there 👋 I'am Syauqi
-## I'm a Informatics Student
+#### I'm a Informatics Student
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
